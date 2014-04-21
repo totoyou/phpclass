@@ -5,7 +5,7 @@
  * Version:     1.0
  * Updated:     5-March-2013
  * Author:      Zhao Sam
- * Homepage:    http://www.researchbib.com 
+ * email:       zhao2050@gmail.com
 
  * COPYRIGHT (c) 2012 - 2013 BENNETT STONE
  * 
