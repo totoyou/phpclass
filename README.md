@@ -1,8 +1,4 @@
 **********************************************************************************
- * File:        ShortURL.php
- * Class:       Short URL encode and decode
- * Description: This class may create short url based on alphabet or other asscii
- * Version:     1.0
  * Updated:     5-March-2013
  * Author:      Zhao Sam
  * email:       zhao2050@gmail.com
